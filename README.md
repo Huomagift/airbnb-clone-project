@@ -11,6 +11,6 @@ This project was built with the following project goals in mind:
 - **Best Practices in Web Development**
 
 # Tech Stack
--Frontend: HTML, CSS, JavaScript (React or similar framework)
--Version Control: Git and GitHub
--Design Tools: Figma for UI/UX design
+-**Frontend: HTML, CSS, JavaScript (React or similar framework)**
+-**Version Control: Git and GitHub**
+-**Design Tools: Figma for UI/UX design**
